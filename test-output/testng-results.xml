@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-07T20:15:48 EDT" name="AMAZON Application Test Automation Test Suite" finished-at="2023-06-07T20:16:34 EDT" duration-ms="45967">
+    <groups>
+    </groups>
+    <test started-at="2023-06-07T20:15:48 EDT" name="Amazon Test Cases" finished-at="2023-06-07T20:16:34 EDT" duration-ms="45967">
+      <class name="com.amazon.qa.testcases.SearchResultTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:15:48 EDT" name="setUp" finished-at="2023-06-07T20:15:53 EDT" duration-ms="5311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ValidateTitle()[pri:1, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:15:54 EDT" name="ValidateTitle" finished-at="2023-06-07T20:15:54 EDT" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:15:54 EDT" name="tearDown" finished-at="2023-06-07T20:15:54 EDT" duration-ms="683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:15:55 EDT" name="setUp" finished-at="2023-06-07T20:16:00 EDT" duration-ms="4759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="newItemSearch(java.lang.String)[pri:2, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:00 EDT" name="newItemSearch" data-provider="getxlsData" finished-at="2023-06-07T20:16:02 EDT" duration-ms="2445" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pen]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newItemSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:02 EDT" name="tearDown" finished-at="2023-06-07T20:16:03 EDT" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:03 EDT" name="setUp" finished-at="2023-06-07T20:16:07 EDT" duration-ms="4785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="newItemSearch(java.lang.String)[pri:2, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:07 EDT" name="newItemSearch" data-provider="getxlsData" finished-at="2023-06-07T20:16:10 EDT" duration-ms="2469" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newItemSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:10 EDT" name="tearDown" finished-at="2023-06-07T20:16:10 EDT" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:10 EDT" name="setUp" finished-at="2023-06-07T20:16:15 EDT" duration-ms="5107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="newItemSearch(java.lang.String)[pri:2, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:15 EDT" name="newItemSearch" data-provider="getxlsData" finished-at="2023-06-07T20:16:18 EDT" duration-ms="2377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Watch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newItemSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:18 EDT" name="tearDown" finished-at="2023-06-07T20:16:18 EDT" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:18 EDT" name="setUp" finished-at="2023-06-07T20:16:23 EDT" duration-ms="5043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="newItemSearch(java.lang.String)[pri:2, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:23 EDT" name="newItemSearch" data-provider="getxlsData" finished-at="2023-06-07T20:16:26 EDT" duration-ms="2403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Computer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newItemSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:26 EDT" name="tearDown" finished-at="2023-06-07T20:16:26 EDT" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:26 EDT" name="setUp" finished-at="2023-06-07T20:16:31 EDT" duration-ms="4876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="newItemSearch(java.lang.String)[pri:2, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:31 EDT" name="newItemSearch" data-provider="getxlsData" finished-at="2023-06-07T20:16:34 EDT" duration-ms="2377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newItemSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.SearchResultTest@15b204a1]" started-at="2023-06-07T20:16:34 EDT" name="tearDown" finished-at="2023-06-07T20:16:34 EDT" duration-ms="535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.qa.testcases.SearchResultTest -->
+    </test> <!-- Amazon Test Cases -->
+  </suite> <!-- AMAZON Application Test Automation Test Suite -->
+</testng-results>

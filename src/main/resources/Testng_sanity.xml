@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AMAZON Application Test Automation Test Suite">
+
+
+<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReportListen"/>
+	</listeners>
+	<test name="Amazon Test Cases">
+		<classes>
+			<class name="com.amazon.qa.testcases.SearchResultTest"></class>
+
+		</classes>
+	</test>
+</suite>
